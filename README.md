@@ -1,9 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-#### welcome to my github
+##### welcome to my github
 
-### things you should know about me
+## things you should know about me
 
-#### i code in cp
-#### professional ccp coder
-#### im just some skidder ok
+##### professional ccp coder
+##### im just some skidder ok
